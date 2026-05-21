@@ -60,7 +60,7 @@ Aplicação para gerenciar uma biblioteca pessoal de jogos, com sistema de login
 
 ---
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Desenvolvedor+Front-end;Apaixonado+por+React;Sempre+aprendendo...)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Desenvolvedor+Front-end;Sempre+aprendendo...)](https://git.io/typing-svg)
 
 ---
 
