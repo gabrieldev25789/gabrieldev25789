@@ -1,7 +1,16 @@
 <h1 align="center">Olá, eu sou o Gabriel 👋</h1>
 
 <p align="center">
-  Desenvolvedor Front-end apaixonado por criar interfaces bonitas e funcionais.
+  Desenvolvedor Front-end em constante aprendizado, focado em criar interfaces funcionais e bem estruturadas com React e JavaScript.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-santos-ab566a305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/gabrieldev25789" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -17,23 +26,40 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrieldev25789&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldev25789&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gabrieldev25789&theme=tokyonight&hide_border=true" />
-</p>
+### 📂 Projetos em destaque
 
 ---
 
-### 📫 Contato
+#### ✈️ GrizzyFlyes — App de Viagens
+Aplicação React para explorar destinos turísticos, filtrar por cidade, país ou continente, selecionar datas, adicionar hotéis e finalizar pedidos com cálculo dinâmico de valores.
 
-<p align="left">
-  <a href="https://github.com/gabrieldev25789" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Tecnologias:** React · React Router DOM · CSS3
+
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrieldev25789/projeto-viagem)
+[![Demo](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://projeto-viagem-h7wm.vercel.app/)
+
+---
+
+#### 🛸 Rick and Morty Explorer — Consumo de API
+Aplicação que consome a API pública de Rick and Morty para explorar episódios, personagens e localizações, com filtros dinâmicos, estados de loading e tratamento completo de erros.
+
+**Tecnologias:** HTML · CSS · JavaScript Vanilla · Rick and Morty API
+
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrieldev25789/Api-Rick-Morty)
+[![Demo](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://api-rick-morty.vercel.app/)
+
+---
+
+#### 🎮 GameVault — CRUD com Autenticação
+Aplicação para gerenciar uma biblioteca pessoal de jogos, com sistema de login por usuário, CRUD completo, upload de imagem, notas em estrelas, sistema de favoritos e persistência via localStorage.
+
+**Tecnologias:** React · React Router DOM · CSS3
+
+[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrieldev25789/CRUD-jogos)
+[![Demo](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://crud-jogos-phi.vercel.app/)
+
+---
+
+### 📚 Atualmente estudando
+
+Aprofundando conhecimentos em React e boas práticas de desenvolvimento front-end.
