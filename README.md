@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<h1 align="center">Bem vindo</h1>
 
 <p align="center">
   Desenvolvedor Front-end em constante aprendizado, focado em criar interfaces funcionais e bem estruturadas com React e JavaScript.
