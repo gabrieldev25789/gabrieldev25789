@@ -25,10 +25,10 @@ Desenvolvedor Front-End em busca da primeira oportunidade profissional. Minha tr
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Rick & Morty App](https://github.com/gabrieldev25789/seu-repo) | Consumo de API com listagem de personagens e busca | JavaScript, API REST |
-| [CRUD de Jogos](https://github.com/gabrieldev25789/seu-repo) | CRUD completo com operações de criação, edição e exclusão | JavaScript |
-| [Projeto Viagem](https://github.com/gabrieldev25789/seu-repo) | Landing page de viagem responsiva | HTML, CSS |
-| [Calculadora IMC](https://github.com/gabrieldev25789/seu-repo) | Calculadora de IMC avançada com feedback visual | JavaScript |
+| [Rick & Morty App](https://github.com/gabrieldev25789/Api-Rick-Morty) | Consumo de API com listagem de personagens e busca | JavaScript, API REST |
+| [CRUD de Jogos](https://github.com/gabrieldev25789/CRUD-jogos) | CRUD completo com operações de criação, edição e exclusão | React |
+| [Projeto Viagem](https://github.com/gabrieldev25789/projeto-viagem) | Landing page de viagem responsiva | React |
+| [Calculadora IMC](https://github.com/gabrieldev25789/calculadora-imc-avancada) | Calculadora de IMC avançada com feedback visual | JavaScript |
 
 ---
 
