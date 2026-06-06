@@ -1,69 +1,57 @@
-<h1 align="center">Bem vindo</h1>
+# Gabriel Santos 💻
 
-<p align="center">
-  Desenvolvedor Front-end em constante aprendizado, focado em criar interfaces funcionais e bem estruturadas com React e JavaScript.
-</p>
+**`Desenvolvedor Front-End`**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-santos-ab566a305/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/gabrieldev25789" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Desenvolvedor Front-End autodidata em busca da primeira oportunidade profissional. Minha trajetória na tecnologia começou do zero e hoje, aos [sua idade] anos, venho aprofundando meus conhecimentos em HTML, CSS, JavaScript, React e TypeScript — construindo projetos reais para solidificar cada conceito aprendido.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
 
 ---
 
-### 🚀 Tecnologias que uso
+## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/>
 </p>
 
 ---
 
-### 📂 Projetos em destaque
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrieldev25789&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldev25789&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
 ---
 
-#### ✈️ GrizzyFlyes — App de Viagens
-Aplicação React para explorar destinos turísticos, filtrar por cidade, país ou continente, selecionar datas, adicionar hotéis e finalizar pedidos com cálculo dinâmico de valores.
+## 🚀 Projetos em Destaque
 
-**Tecnologias:** React · React Router DOM · CSS3
-
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrieldev25789/projeto-viagem)
-[![Demo](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://projeto-viagem-h7wm.vercel.app/)
-
----
-
-#### 🛸 Rick and Morty Explorer — Consumo de API
-Aplicação que consome a API pública de Rick and Morty para explorar episódios, personagens e localizações, com filtros dinâmicos, estados de loading e tratamento completo de erros.
-
-**Tecnologias:** HTML · CSS · JavaScript Vanilla · Rick and Morty API
-
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrieldev25789/Api-Rick-Morty)
-[![Demo](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://api-rick-morty.vercel.app/)
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Rick & Morty App](https://github.com/gabrieldev25789/seu-repo) | Consumo de API com listagem de personagens e busca | JavaScript, API REST |
+| [CRUD de Jogos](https://github.com/gabrieldev25789/seu-repo) | CRUD completo com operações de criação, edição e exclusão | JavaScript |
+| [Projeto Viagem](https://github.com/gabrieldev25789/seu-repo) | Landing page de viagem responsiva | HTML, CSS |
+| [Calculadora IMC](https://github.com/gabrieldev25789/seu-repo) | Calculadora de IMC avançada com feedback visual | JavaScript |
 
 ---
 
-#### 🎮 GameVault — CRUD com Autenticação
-Aplicação para gerenciar uma biblioteca pessoal de jogos, com sistema de login por usuário, CRUD completo, upload de imagem, notas em estrelas, sistema de favoritos e persistência via localStorage.
+## 🎯 Atualmente
 
-**Tecnologias:** React · React Router DOM · CSS3
-
-[![Repo](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrieldev25789/CRUD-jogos)
-[![Demo](https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://crud-jogos-phi.vercel.app/)
-
----
-
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Desenvolvedor+Front-end;Sempre+aprendendo...)](https://git.io/typing-svg)
+- 📚 Estudando **JavaScript e TypeScript** (Udemy)
+- ⚛️ Desenvolvendo um app de **controle de hábitos** com React
+- 💼 Em busca da **primeira oportunidade** como Desenvolvedor Front-End
+- 🌎 Baseado em **Salvador, BA**
 
 ---
 
-### 📚 Atualmente estudando
-
-Aprofundando conhecimentos em React e boas práticas de desenvolvimento front-end.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabrieldev25789&color=0d1117&style=flat-square&label=Visitas+ao+perfil" alt="Profile views"/>
+</p>
