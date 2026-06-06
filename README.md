@@ -4,8 +4,8 @@
 
 Desenvolvedor Front-End em busca da primeira oportunidade profissional. Minha trajetória na tecnologia começou do zero e hoje, aos 23 anos, venho aprofundando meus conhecimentos em HTML, CSS, JavaScript, React — construindo projetos reais para solidificar cada conceito aprendido.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santos-ab566a305/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gold-six-87.vercel.app/)
 
 ---
 
