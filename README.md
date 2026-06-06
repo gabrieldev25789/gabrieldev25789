@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Desenvolvedor Front-End autodidata em busca da primeira oportunidade profissional. Minha trajetória na tecnologia começou do zero e hoje, aos [sua idade] anos, venho aprofundando meus conhecimentos em HTML, CSS, JavaScript, React e TypeScript — construindo projetos reais para solidificar cada conceito aprendido.
+Desenvolvedor Front-End em busca da primeira oportunidade profissional. Minha trajetória na tecnologia começou do zero e hoje, aos [23] anos, venho aprofundando meus conhecimentos em HTML, CSS, JavaScript, React — construindo projetos reais para solidificar cada conceito aprendido.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
@@ -16,17 +16,7 @@ Desenvolvedor Front-End autodidata em busca da primeira oportunidade profissiona
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/>
-</p>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrieldev25789&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -44,13 +34,7 @@ Desenvolvedor Front-End autodidata em busca da primeira oportunidade profissiona
 
 ## 🎯 Atualmente
 
-- 📚 Estudando **JavaScript e TypeScript** (Udemy)
 - ⚛️ Desenvolvendo um app de **controle de hábitos** com React
 - 💼 Em busca da **primeira oportunidade** como Desenvolvedor Front-End
 - 🌎 Baseado em **Salvador, BA**
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrieldev25789&color=0d1117&style=flat-square&label=Visitas+ao+perfil" alt="Profile views"/>
-</p>
